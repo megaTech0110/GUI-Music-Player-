@@ -1,0 +1,61 @@
+8
+Neil Diamond
+Greatest Hits
+image/neil.png
+Jazz
+3
+Crackling Rose
+music/Neil Diamond - Cracklin' Rosie.mp3
+Soolaimon
+music/Neil Diamond - Soolaimon.mp3
+Sweet Caroline
+music/Neil-Sweet Caroline.mp3
+Platters
+Greatest Hits
+image/platters.png.jpeg
+Classic
+2
+Twilight Time
+music/Platters-Twilight Time - Lyrics.mp3
+The Great Pretender
+music/The Platters - The Great Pretender (Original Footage HD).mp3
+Don McClean
+American Pie
+image/Don.png
+Pop
+0
+Carly Simon
+No Secrets
+image/Carly.png.jpeg
+Jazz
+1
+The Carter Family
+music/The Carter Family.mp3
+Kanye West
+Morning
+image/Kanye.png.jpeg
+Jazz
+1
+Good Morning 
+music/Kanye-Good Morning.mp3
+Drake
+Nothing Was The Same
+image/Drake.png.jpeg
+Jazz
+1
+God's Plan 
+music/Drake - God's Plan.mp3
+Wiz Khalifa
+Rolling Paper
+image/wiz.png
+Jazz
+1
+Black and Yellow
+music/Wiz Khalifa - Black And Yellow [Official Music Video].mp3
+DJ Khaled
+Khaled Khaled
+image/Khaled.png.jpeg
+Jazz
+1
+GOD DID
+music/Khaled-GOD DID.mp3
